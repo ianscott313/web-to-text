@@ -22,7 +22,6 @@ module.exports = async url => {
       wordwrap: 130,
     };
     const text = convert(content.html, options);
-    console.log(text);
     // kill Chromium process 
     browserlessFactory.close()
     return text;
