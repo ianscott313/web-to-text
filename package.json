@@ -1,6 +1,6 @@
 {
   "name": "web-to-text",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node package to scrape content from a web url and convert it into text. Great for language models like ChatGPT.",
   "main": "index.js",
   "scripts": {
