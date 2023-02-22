@@ -22,5 +22,11 @@
   "bugs": {
     "url": "https://github.com/ianscott313/web-to-text/issues"
   },
-  "homepage": "https://github.com/ianscott313/web-to-text#readme"
+  "homepage": "https://github.com/ianscott313/web-to-text#readme",
+  "dependencies": {
+    "browserless": "^9.9.1",
+    "html-get": "^2.9.29",
+    "html-to-text": "^9.0.4",
+    "puppeteer": "^19.7.2"
+  }
 }
